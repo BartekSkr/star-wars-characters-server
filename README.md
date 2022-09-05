@@ -10,7 +10,9 @@ Server for Star Wars Characters App
 
 ### Setup
 
-To run download the code run it locally:
+To run click the link [Star Wars Characters Server](https://star-wars-characters-server.herokuapp.com/graphql)
+
+or download the code run it locally:
 
 ```
 $ yarn
