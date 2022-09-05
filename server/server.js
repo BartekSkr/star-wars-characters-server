@@ -7,7 +7,7 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 app.use(
-  'https://star-wars-characters-server.herokuapp.com/graphql',
+  '/graphql',
   graphqlHTTP({
     schema: schema,
     graphiql: true,
