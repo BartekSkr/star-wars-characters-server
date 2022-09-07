@@ -18,4 +18,3 @@ or download the code run it locally:
 $ yarn
 $ yarn start
 ```
-# star-wars-characters-client
